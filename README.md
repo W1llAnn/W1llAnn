@@ -27,7 +27,7 @@
   <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" title="huggingface" alt="huggingface" height="40"/>&nbsp;
   <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/opencv_logo_icon_170887.png" title="opencv" alt="opencv" width="40" height="40"/>&nbsp;
   <img src="https://python-pillow.org/assets/images/pillow-logo-248x250.png" title="pillow" alt="pillow" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.icon-icons.com/icons2/3915/PNG/512/spacy_logo_icon_249559.png" title="spacy" alt="spacy" height="40"/>&nbsp;
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTX-RgEKee--VdzUbACHv-kZkbxxrwcm3gKQ&s" title="spacy" alt="spacy" height="40"/>&nbsp;
 </div>
 
 
