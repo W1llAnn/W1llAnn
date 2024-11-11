@@ -8,10 +8,10 @@
 
 <div id="badges" align="center">
   <a href="https://t.me/ann_1will">
-    <img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/telegram_button_icon_151837.png" height="50" alt="Telegram Badge"/>
+    <img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/telegram_button_icon_151837.png" height="30" alt="Telegram Badge"/>
   </a>
   <a href="mailto:w1ll.ann.dev@gmail.com">
-    <img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/gmail_button_icon_151848.png" height="50" alt="Gmail Badge"/>
+    <img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/gmail_button_icon_151848.png" height="30" alt="Gmail Badge"/>
   </a>
 </div>
 
