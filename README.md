@@ -18,6 +18,20 @@
 ### :man_technologist: About Me :
 **I'm Data Scientist and Machine learning fan.**
 
+### :hammer_and_wrench: Languages and Tools :
+<div>
+  <img src="https://cdn.icon-icons.com/icons2/195/PNG/256/Visual_Studio_23517.png" title="Visual_Studio" alt="Visual_Studio" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/python_logo_icon_168886.png" title="python" alt="python" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/pytorch_logo_icon_170820.png" title="pytorch" alt="pytorch" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/tensorflow_logo_icon_168671.png" title="tensorflow" alt="tensorflow" width="40" height="40"/>&nbsp;
+  <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" title="huggingface" alt="huggingface" height="40"/>&nbsp;
+  <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/opencv_logo_icon_170887.png" title="opencv" alt="opencv" width="40" height="40"/>&nbsp;
+  <img src="https://python-pillow.org/assets/images/pillow-logo-248x250.png" title="pillow" alt="pillow" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.icon-icons.com/icons2/3915/PNG/512/spacy_logo_icon_249559.png" title="spacy" alt="spacy" width="40" height="40"/>&nbsp;
+</div>
+
+
+
 ### :gear: Github Analytics :
 
 <p align="center">
