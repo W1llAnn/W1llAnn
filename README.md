@@ -18,6 +18,15 @@
 ### :man_technologist: About Me :
 **I'm Data Scientist and Machine learning fan.**
 
+### :gear: Github Analytics :
+
+<p align="center">
+  <a href="https://github.com/W1llAnn/">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=kirillerokhin&show_icons=true&theme=dracula"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kirillerokhin&layout=compact&theme=dracula"/>
+  </a>
+</p>
+
 <!--
 **W1llAnn/W1llAnn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
