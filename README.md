@@ -6,6 +6,15 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1> 
 
+<div id="badges" align="center">
+  <a href="https://t.me/ann_1will">
+    <img src="https://img.shields.io/badge/telegram-black?style=for-the-badge&logo=telegram&logoColor=rgb" alt="Telegram Badge"/>
+  </a>
+  <a href="mailto:w1ll.ann.dev@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-white?style=for-the-badge&logo=gmail&logoColor=rgb" alt="Gmail Badge"/>
+  </a>
+</div>
+
 ### :man_technologist: About Me :
 **I'm Data Scientist and Machine learning fan.**
 
